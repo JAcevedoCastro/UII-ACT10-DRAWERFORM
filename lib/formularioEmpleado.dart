@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:acevedo042/tablaEmpleado.dart';
+import 'package:acevedo0425/tablaEmpleado.dart';
 
 // ignore: must_be_immutable
 class FormEmpleado extends StatelessWidget {

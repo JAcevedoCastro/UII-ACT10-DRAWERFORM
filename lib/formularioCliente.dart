@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:acevedo042/tablaCliente.dart';
+import 'package:acevedo0425/tablaCliente.dart';
 
 // ignore: must_be_immutable
 class FormCliente extends StatelessWidget {

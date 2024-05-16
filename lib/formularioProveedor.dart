@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:acevedo042/tablaProveedor.dart';
+import 'package:acevedo0425/tablaProveedor.dart';
 
 // ignore: must_be_immutable
 class FormProveedor extends StatelessWidget {

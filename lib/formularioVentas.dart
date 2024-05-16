@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:acevedo042/tablaVentas.dart';
+import 'package:acevedo0425/tablaVentas.dart';
 
 // ignore: must_be_immutable
 class FormVentas extends StatelessWidget {
